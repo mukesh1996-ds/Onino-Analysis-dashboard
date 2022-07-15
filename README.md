@@ -9,3 +9,7 @@
 7. min_price : Minimum Price Rs per Quintal
 8. max_price : Maximum Price Rs per Quintal
 9. modal_price : Modal Price Rs per Quintal
+
+## My reports look like this 
+
+![image]()
